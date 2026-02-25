@@ -1,0 +1,52 @@
+[
+  {
+    "role": "user",
+    "content": "tell me about itech classes",
+    "time": "2025-12-26T12:15:02.106453"
+  },
+  {
+    "role": "assistant",
+    "content": "I-Tech Institute offers a variety of courses designed to equip students with the skills needed for today's technology-driven job market. Here are the courses currently offered:\n\n1. **Full Stack Web Development**: \n   - Duration: 6 months \n   - Fee: ₹40,000 \n   - This course covers both front-end and back-end web development, preparing students for a career in web development.\n\n2. **Data Science**: \n   - Duration: 8 months \n   - Fee: ₹60,000 \n   - This program focuses on data analysis, machine learning, and statistical methods, essential for a career in data science.\n\n3. **Programming Foundations**: \n   - Duration: 3 months \n   - Fee: ₹25,000 \n   - This course is designed for beginners to learn the basics of programming concepts.\n\n**Placement Rate**: The institute boasts a 100% placement rate for its graduates.\n\n**Average Package**: Graduates can expect an average package between 4 to 8 LPA.\n\nIf you need more specific information about the classes or have any other questions, feel free to ask!",
+    "time": "2025-12-26T12:15:07.721852"
+  },
+  {
+    "role": "user",
+    "content": "give me the syllabus of data science",
+    "time": "2025-12-26T12:27:29.974729"
+  },
+  {
+    "role": "assistant",
+    "content": "I currently don't have the specific syllabus details for the Data Science course at I-Tech Institute. I recommend contacting the institute directly for the most accurate and up-to-date information regarding the syllabus. They will be able to provide you with comprehensive details about the topics covered in the course. If you have any other questions or need assistance, feel free to ask!",
+    "time": "2025-12-26T12:27:32.470433"
+  },
+  {
+    "role": "user",
+    "content": "after data science placement role",
+    "time": "2025-12-26T12:36:33.455315"
+  },
+  {
+    "role": "assistant",
+    "content": "After completing the Data Science course at I-Tech Institute, graduates typically qualify for various roles in the field of data science and analytics. Some common job roles include:\n\n1. **Data Scientist**: Analyzing complex data sets to derive insights and inform business decisions.\n2. **Data Analyst**: Interpreting data and turning it into information that can offer ways to improve a business.\n3. **Machine Learning Engineer**: Designing and implementing machine learning applications and algorithms.\n4. **Business Analyst**: Using data analysis to help companies make informed business decisions.\n5. **Data Engineer**: Building and maintaining the infrastructure and architecture for data generation, storage, and processing.\n\nThese roles can vary in responsibilities and requirements, but they all focus on utilizing data to drive business success.\n\nIf you have more questions or need further information, feel free to ask!",
+    "time": "2025-12-26T12:36:39.753526"
+  },
+  {
+    "role": "user",
+    "content": "give me the syllabus of data science",
+    "time": "2025-12-26T12:37:19.392423"
+  },
+  {
+    "role": "assistant",
+    "content": "I apologize, but I do not have the specific syllabus for the Data Science course at I-Tech Institute. To get detailed information about the syllabus, including the topics and modules covered in the course, I recommend contacting the institute directly. They will be able to provide you with the most accurate and comprehensive syllabus information. If you have any other questions or need assistance, feel free to ask!",
+    "time": "2025-12-26T12:37:22.187444"
+  },
+  {
+    "role": "user",
+    "content": "give me the batch timing",
+    "time": "2025-12-26T12:38:39.173134"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry, but I do not have information on the batch timings for the courses at I-Tech Institute. I recommend reaching out to the institute directly for the most accurate and up-to-date information regarding batch timings. If you have any other questions or need further assistance, feel free to ask!",
+    "time": "2025-12-26T12:38:41.470925"
+  }
+]

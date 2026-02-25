@@ -1,0 +1,17 @@
+{
+  "admission_doubts": [
+    "Which course is best for me?",
+    "Can I do this course without coding background?",
+    "Is this course suitable for working professionals?"
+  ],
+  "placement_doubts": [
+    "Do you really provide placement?",
+    "What if I don't get placed?",
+    "Is internship guaranteed?"
+  ],
+  "fees_doubts": [
+    "Is fee negotiable?",
+    "Do you provide EMI?",
+    "Any discount available?"
+  ]
+}

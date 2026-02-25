@@ -1,0 +1,474 @@
+{
+  "institute_name": "I-tech",
+  "tagline": "Learn Today, Lead Tomorrow",
+
+  "degree_courses": [
+{
+  "name": "B.Sc Information Technology",
+  "duration": "3 Years",
+  "eligibility": "12th Science",
+  "fee": "As per university norms",
+  "syllabus": {
+    "Semester 1": [
+      "Computer Fundamentals",
+      "Programming in C",
+      "Mathematics I",
+      "Digital Electronics",
+      "Communication Skills"
+    ],
+    "Semester 2": [
+      "C++ Programming",
+      "Data Structures",
+      "Mathematics II",
+      "Computer Organization",
+      "Environmental Studies"
+    ],
+    "Semester 3": [
+      "Java Programming",
+      "Operating System",
+      "Discrete Mathematics",
+      "Web Technologies I",
+      "Python Basics"
+    ],
+    "Semester 4": [
+      "Database Management System",
+      "Computer Networks",
+      "Software Engineering",
+      "Web Technologies II",
+      "Numerical Methods"
+    ],
+    "Semester 5": [
+      "Advanced Java",
+      "Cyber Security",
+      "Cloud Computing",
+      "Mobile Application Development",
+      "Elective I"
+    ],
+    "Semester 6": [
+      "Data Analytics",
+      "Artificial Intelligence Basics",
+      "Project Management",
+      "Major Project",
+      "Internship / Viva"
+    ]
+  },
+  "career_roles": ["Software Developer", "IT Analyst", "System Engineer"]
+},
+    {
+  "name": "B.Sc Computer Science",
+  "duration": "3 Years",
+  "eligibility": "12th Science",
+  "fee": "As per university norms",
+  "syllabus": {
+    "Semester 1": [
+      "C Programming",
+      "Computer Fundamentals",
+      "Mathematics I",
+      "Digital Logic",
+      "Communication Skills"
+    ],
+    "Semester 2": [
+      "C++ Programming",
+      "Data Structures",
+      "Discrete Mathematics",
+      "Computer Organization",
+      "Environmental Studies"
+    ],
+    "Semester 3": [
+      "Java Programming",
+      "Operating System",
+      "Python Programming",
+      "DBMS I",
+      "Statistics"
+    ],
+    "Semester 4": [
+      "DBMS II",
+      "Computer Networks",
+      "Software Engineering",
+      "Web Technologies",
+      "Numerical Methods"
+    ],
+    "Semester 5": [
+      "Artificial Intelligence",
+      "Software Testing",
+      "Machine Learning Basics",
+      "Elective I",
+      "Mini Project"
+    ],
+    "Semester 6": [
+      "Data Science Basics",
+      "Cyber Security",
+      "Cloud Computing",
+      "Major Project",
+      "Internship / Viva"
+    ]
+  },
+  "career_roles": ["Software Engineer", "System Developer"]
+}
+,
+
+    {
+  "name": "B.Sc Data Science",
+  "duration": "3 Years",
+  "eligibility": "12th Science",
+  "fee": "As per university norms",
+  "syllabus": {
+    "Semester 1": [
+      "Python Programming",
+      "Mathematics I",
+      "Statistics I",
+      "Computer Fundamentals",
+      "Communication Skills"
+    ],
+    "Semester 2": [
+      "Data Structures",
+      "Probability Theory",
+      "Statistics II",
+      "SQL Basics",
+      "Environmental Studies"
+    ],
+    "Semester 3": [
+      "Data Cleaning & Preprocessing",
+      "Exploratory Data Analysis",
+      "Database Management System",
+      "Linear Algebra",
+      "Python for Data Science"
+    ],
+    "Semester 4": [
+      "Machine Learning",
+      "Data Visualization",
+      "Big Data Concepts",
+      "Cloud Platforms",
+      "Mini Project"
+    ],
+    "Semester 5": [
+      "Deep Learning",
+      "Artificial Intelligence",
+      "Business Intelligence",
+      "Elective I",
+      "Case Studies"
+    ],
+    "Semester 6": [
+      "Advanced Analytics",
+      "Ethics in Data Science",
+      "Capstone Project",
+      "Internship",
+      "Viva Voce"
+    ]
+  },
+  "career_roles": ["Data Analyst", "Data Scientist"]
+}
+,
+
+    {
+  "name": "BCA",
+  "duration": "3 Years",
+  "eligibility": "12th Pass",
+  "fee": "As per university norms",
+  "syllabus": {
+    "Semester 1": [
+      "Computer Fundamentals",
+      "Programming in C",
+      "Mathematics",
+      "Business Communication",
+      "Digital Electronics"
+    ],
+    "Semester 2": [
+      "C++ Programming",
+      "Data Structures",
+      "Operating System",
+      "Statistics",
+      "Environmental Studies"
+    ],
+    "Semester 3": [
+      "Java Programming",
+      "DBMS",
+      "Web Technology",
+      "Software Engineering",
+      "Computer Organization"
+    ],
+    "Semester 4": [
+      "Python Programming",
+      "Computer Networks",
+      "Mobile Application Development",
+      "Numerical Methods",
+      "Mini Project"
+    ],
+    "Semester 5": [
+      "Cloud Computing",
+      "Cyber Security",
+      "AI Basics",
+      "Elective I",
+      "Project Planning"
+    ],
+    "Semester 6": [
+      "Advanced Web Development",
+      "Data Analytics",
+      "Major Project",
+      "Internship",
+      "Viva"
+    ]
+  },
+  "career_roles": ["Software Developer", "Web Developer"]
+},
+
+    {
+  "name": "B.A Animation & VFX",
+  "duration": "3 Years",
+  "eligibility": "12th Pass",
+  "fee": "As per university norms",
+  "syllabus": {
+    "Semester 1": [
+      "Drawing & Sketching",
+      "Design Principles",
+      "Color Theory",
+      "Visual Communication",
+      "Art History"
+    ],
+    "Semester 2": [
+      "2D Animation",
+      "Storyboarding",
+      "Character Design",
+      "Photoshop",
+      "Illustrator"
+    ],
+    "Semester 3": [
+      "3D Modeling",
+      "Texturing",
+      "Lighting Basics",
+      "Animation Principles",
+      "Mini Project"
+    ],
+    "Semester 4": [
+      "Lighting & Rendering",
+      "VFX Fundamentals",
+      "Compositing",
+      "Motion Graphics",
+      "Sound Design"
+    ],
+    "Semester 5": [
+      "Advanced VFX",
+      "Video Editing",
+      "Portfolio Development",
+      "Elective I",
+      "Industry Practices"
+    ],
+    "Semester 6": [
+      "Short Film Project",
+      "Internship",
+      "Showreel Creation",
+      "Viva",
+      "Career Planning"
+    ]
+  },
+  "career_roles": ["Animator", "VFX Artist"]
+}
+,
+
+    {
+  "name": "B.A Mass & Multimedia",
+  "duration": "3 Years",
+  "eligibility": "12th Pass",
+  "fee": "As per university norms",
+  "syllabus": {
+    "Semester 1": [
+      "Introduction to Journalism",
+      "Media Basics",
+      "Communication Skills",
+      "Indian Society",
+      "Writing Skills"
+    ],
+    "Semester 2": [
+      "Advertising",
+      "Public Relations",
+      "Photography",
+      "Media Psychology",
+      "Environmental Studies"
+    ],
+    "Semester 3": [
+      "Digital Media",
+      "Content Writing",
+      "Social Media",
+      "Video Production",
+      "Mini Project"
+    ],
+    "Semester 4": [
+      "Media Ethics",
+      "Broadcast Journalism",
+      "Script Writing",
+      "Film Studies",
+      "Editing Techniques"
+    ],
+    "Semester 5": [
+      "Media Management",
+      "News Reporting",
+      "Documentary Making",
+      "Elective I",
+      "Internship"
+    ],
+    "Semester 6": [
+      "Advanced Journalism",
+      "Final Project",
+      "Media Law",
+      "Viva",
+      "Portfolio Development"
+    ]
+  },
+  "career_roles": ["Media Professional", "Content Creator"]
+}
+
+  ],
+
+  "career_courses": [
+    {
+      "name": "Full Stack Web Development",
+      "duration": "12–18 Months",
+      "fee": "₹70,000",
+      "syllabus": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs",
+        "Authentication",
+        "Deployment",
+        "Live Projects"
+      ],
+      "career_roles": ["Full Stack Developer", "Backend Developer"]
+    },
+
+    {
+      "name": "Data Science",
+      "duration": "8 Months",
+      "fee": "₹80,000",
+      "syllabus": [
+        "Python Programming",
+        "NumPy",
+        "Pandas",
+        "EDA",
+        "Statistics",
+        "Machine Learning",
+        "Deep Learning Basics",
+        "SQL",
+        "Power BI",
+        "Real World Projects"
+      ],
+      "career_roles": ["Data Scientist", "ML Engineer"]
+    },
+
+    {
+      "name": "Data Analytics",
+      "duration": "6 Months",
+      "fee": "₹60,000",
+      "syllabus": [
+        "Advanced Excel",
+        "SQL",
+        "Power BI",
+        "Statistics",
+        "Business Analytics",
+        "Dashboard Creation",
+        "Case Studies"
+      ],
+      "career_roles": ["Data Analyst", "Business Analyst"]
+    },
+
+    {
+      "name": "Digital Marketing",
+      "duration": "6 Months",
+      "fee": "₹45,000",
+      "syllabus": [
+        "SEO",
+        "SEM",
+        "Google Ads",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Email Marketing",
+        "Google Analytics",
+        "Live Campaigns"
+      ],
+      "career_roles": ["Digital Marketer", "SEO Executive"]
+    },
+
+    {
+      "name": "Graphic Designing",
+      "duration": "4 Months",
+      "fee": "₹35,000",
+      "syllabus": [
+        "Design Principles",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Canva",
+        "Branding",
+        "Portfolio Creation"
+      ],
+      "career_roles": ["Graphic Designer", "Visual Designer"]
+    },
+
+    {
+      "name": "Animation & Motion Graphics",
+      "duration": "8 Months",
+      "fee": "₹75,000",
+      "syllabus": [
+        "After Effects",
+        "Premiere Pro",
+        "Motion Design",
+        "Kinetic Typography",
+        "2D Motion Graphics",
+        "Video Effects",
+        "Portfolio Development"
+      ],
+      "career_roles": ["Motion Designer", "Animator"]
+    },
+
+    {
+      "name": "VFX & Film Making",
+      "duration": "12 Months",
+      "fee": "₹1,00,000",
+      "syllabus": [
+        "Cinematography",
+        "Video Editing",
+        "Visual Effects",
+        "Green Screen",
+        "Sound Editing",
+        "Film Production",
+        "Short Film Project"
+      ],
+      "career_roles": ["VFX Artist", "Film Editor"]
+    },
+
+    {
+      "name": "Company Accountant",
+      "duration": "6 Months",
+      "fee": "₹40,000",
+      "syllabus": [
+        "Financial Accounting",
+        "Tally ERP",
+        "GST",
+        "Income Tax",
+        "Payroll",
+        "Auditing",
+        "Practical Case Studies"
+      ],
+      "career_roles": ["Accountant", "GST Executive"]
+    },
+
+    {
+      "name": "Auto CAD",
+      "duration": "3 Months",
+      "fee": "₹25,000",
+      "syllabus": [
+        "AutoCAD Interface",
+        "2D Drafting",
+        "3D Modeling",
+        "Layout Design",
+        "Industrial Drawings",
+        "Practical Projects"
+      ],
+      "career_roles": ["CAD Designer", "Draftsman"]
+    }
+  ]
+}

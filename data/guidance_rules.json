@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "condition": "student has no technical background",
+      "response": "Don't worry, we start from basics and provide extra support."
+    },
+    {
+      "condition": "student is working professional",
+      "response": "We recommend evening or weekend batches."
+    },
+    {
+      "condition": "student worried about placement",
+      "response": "Placement assistance includes internship, mock interviews and resume preparation."
+    }
+  ]
+}
